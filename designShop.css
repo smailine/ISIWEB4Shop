@@ -1,0 +1,63 @@
+.formulaire_connexion
+{
+	height: 300px;
+	width: 400px;
+	background-color:#dae0e5;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 500px;
+	margin-top: 130px;
+}
+
+
+th
+{
+	width:90px;
+	text-align: center;
+	padding: 10px;
+}
+
+td
+{
+	text-align: center;
+}
+
+table
+{
+	width: 80%;
+	margin-left: 100px;	
+}
+
+.button_action
+{
+	color: white;
+	
+}
+
+.formulaire_Inscription
+{
+	height: 1000px;
+	width: 700px;
+	background-color:#dae0e5;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 500px;
+	margin-top: 130px;
+}
+
+li
+{
+	list-style-type:none;
+}
+
+.info_produit
+{
+	padding: 10px;
+	
+}
+.image_produit
+{
+	float: left;
+	padding: 10px;
+	
+}
